@@ -29,7 +29,7 @@ PS: The abandoned RGO submod has also been moved: https://drive.google.com/file/
        Note: The Large Address Aware Patch is HIGHLY recommended.
   * GFM RGO Submod adds experimental new RGOs
   * Music Sub Mod adds more music to the game
-7. Enjoy.
+7. Enjoy and have fun.
 
 ### 64-bit increased performance
 
